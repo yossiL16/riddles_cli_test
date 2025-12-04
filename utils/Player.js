@@ -4,7 +4,7 @@ let player = {
     times: []
 }
 
-const createPlayer = (name) => {
+export const createPlayer = (name) => {
     player.name += name
     return player
 }
