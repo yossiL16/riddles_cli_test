@@ -1,6 +1,3 @@
-
-
-
 export default {
   id: 1,
   name: "Easy Math",
